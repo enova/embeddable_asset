@@ -1,0 +1,11 @@
+@function embeddable-asset($asset) {
+  <% if embed_assets? %>
+    @return asset-data-url($asset)
+  <% else %>
+    @return url(asset-path($asset) + "#iefix")
+  <% end %>
+}
+
+@function embeddable-image($image) {
+  @return embeddable-asset($image)
+}

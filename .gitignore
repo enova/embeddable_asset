@@ -1,0 +1,14 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+.DS_Store
+public/assets/application-52db830a003d76c5163da6d690b3ac62761c513e294a93423ccf8c559af41422.js
+public/assets/balls-1d82a2d4da0d21ed2882c4837bce5b0441ff2c4b77e2e4ee2ee42441b623d148.jpg
+public/assets/dog-d5dff91846dc9416d270582a3e16a071b42528e9325378fad6a268567c2e477c.jpg
+public/assets/duck-e5ff3efc549760da99a32215af55003c2358d7cb2f2b69464becfcf677362b84.jpg
